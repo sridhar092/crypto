@@ -1,0 +1,164 @@
+label{
+/*position: relative;
+width: 96px;
+height: 0px;
+left: 44px;
+top: 79px; */
+display:block;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+margin-left: 44px;
+margin-top: 15px;
+margin-bottom:12px;
+/* identical to box height */
+
+
+
+color: #C5C5C5;
+}
+.amount{
+ font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 36px;
+margin-right: 40px;
+
+/* identical to box height */
+
+text-align: right;
+
+color: #627EEA;
+
+text-align: right;
+
+color: #627EEA;
+}
+.container{
+    padding-left: auto;
+    padding-right: auto;
+}
+.inputFields{
+border: 1px solid rgba(110, 86, 248, 0.25);
+border-radius: 5px;
+width:80%;
+margin-left:10%;
+background: #1C1731;
+border-radius: 10px;
+height:50px;
+}
+.disabled{
+    background: #1C1731;
+border-radius: 10px;
+height:50px;
+width:80%;
+margin-left:10%;
+}
+.dropdown{
+    display: flex;
+    align-items: center;
+    gap:15px;
+width: 80%;
+height: 50px;
+background: #1C1731;
+border-radius: 10px;
+margin-left: 10%;
+margin-right:10%;
+text-align: center;
+
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.values{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 142%;
+/* or 31px */
+
+
+color: #6F6F7E;
+}
+.butstyle{
+background: linear-gradient(94.37deg, #3387D5 -5.94%, #7A06C9 115.34%);
+border-radius: 30px;
+width: 80%;
+height: 50px;
+margin-left: 10%;
+margin-top:10%;
+
+}
+
+.text{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+
+
+}
+.option{
+width: 318px;
+height: 44px;
+background: #1B192D;
+border-radius: 2px;
+}
+.labels{
+    padding-top:10%;
+}
+.dropTitle{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+}
+
+.divStyle{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.buy{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+.input-container{
+    position:relative;
+    width:auto;
+}
+.input-container .unit{
+    position: absolute;
+    display: block;
+    left: 75%;
+    bottom: 30%;
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}

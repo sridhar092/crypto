@@ -1,11 +1,15 @@
 
 import './App.css';
+import Navbar from './Components/Navbar';
+import Data from './Components/Data'
+
 
 function App() {
   return (
-    <div className="App">
-      My App
-    </div>
+    <>
+    <Navbar></Navbar>
+    <Data></Data>
+    </>
   );
 }
 
